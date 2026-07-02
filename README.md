@@ -1,10 +1,10 @@
 # Portafolio - Nahib Mubaharak Aliaga
 
-Repositorio de portafolio con los proyectos desarrollados durante el Bootcamp Python2026 (Sustantiva / AD Academy).
+Repositorio de portafolio con los proyectos desarrollados durante el Bootcamp Python2026.
 
 ## Sobre mí
 
-Estudiante del Bootcamp Python2026, enfocado en desarrollo backend con Python y Django.
+Desarrollador Trainee del Bootcamp Python2026, enfocado en desarrollo backend con Python y Django.
 
 ## Proyectos
 
