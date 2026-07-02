@@ -14,7 +14,7 @@ Proyecto final del bootcamp: aplicación e-commerce con autenticación por roles
 - **Funcionalidades destacadas:** autenticación con roles, CRUD de productos, carrito de compras, flujo de pago simulado
 - - **Repositorio:** https://github.com/Xiihib/sangre_y_ceniza
 
-Habilidades Técnicas
+### Habilidades Técnicas
 
 -Frontend
 -HTML5, CSS3, JavaScript (ES6+)
