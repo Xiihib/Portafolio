@@ -16,17 +16,17 @@ Proyecto final del bootcamp: aplicación e-commerce con autenticación por roles
 
 ### Habilidades Técnicas
 
--Frontend
+- **Frontend**
 -HTML5, CSS3, JavaScript (ES6+)
 -Bootstrap 5
 -Responsive Design
 
--Backend
+- **Backend**
 -Python (avanzado)
 -Django (MTV, ORM, Admin personalizado, Formularios, Autenticación)
 -Bases de datos: PostgreSQL, SQLite
 -Buenas prácticas: DRY, manejo de migraciones, seguridad (CSRF, permisos)
 
--Herramientas y Otros
+- **Herramientas y Otros**
 -Git / GitHub
 -VS Code
